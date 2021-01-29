@@ -1,3 +1,3 @@
-# URI-Python
-Resolução de exercícios do 'URI Online Judge' em Python
-https://www.urionlinejudge.com.br/
+# URI
+Resolução de exercícios do 'URI Online Judge'
+https://www.urionlinejudge.com.br/judge/pt/profile/385719
